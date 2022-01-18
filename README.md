@@ -1,2 +1,2 @@
 # churn_detection
-Back slide not just a back slide
+Unusal churn rate detection using Artificial Neural Networks
